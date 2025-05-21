@@ -1,6 +1,6 @@
 # Подбор рецептов
 
-[colab](https://colab.research.google.com/drive/1FghFUYjL6II_OJkdw_fRicUR4BwWswfL?usp=sharing)
+[**ссылка на colab**](https://colab.research.google.com/drive/1FghFUYjL6II_OJkdw_fRicUR4BwWswfL?usp=sharing)
 
 Полнофункциональная система RAG с контурной русскоязычной LLM (saiga_mistral_7b) предлагает широкий выбор рецептов для любого приёма пищи.
 * Для реализации проекта был выбран фреймворк **LlamaIndex**.
